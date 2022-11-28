@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SijiaLu-Leo
-- 
+👋 Hi, I’m SijiaLu and you can call me Leo.
+
 I am a PhD student 👨‍🎓 at Fudan University. After high school, I was fortunate to enter the UESTC (University of Electronic Science and Technology of China, the one in Chengdu 🐼🥘🌨) to study in the experimental class of basic science in mathematics and physics, and spent four years in Chengdu with my girlfriend 👩‍🎓💏🍀.
 
 During my doctoral period, my main research direction was **Brain-like Artificial Intelligence**, and I am interested in object recognition and other artificial intelligence-related fields. The current research direction involves **Spiking Neural Network**, **Competitive Learning**, **Computational Neuroscience** and other related knowledge. And, now my main research focuses on **unsupervised learning**.
